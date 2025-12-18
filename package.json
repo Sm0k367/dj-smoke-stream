@@ -1,0 +1,26 @@
+{
+  "name": "dj-smoke-stream",
+  "version": "1.0.0",
+  "description": "DJ Smoke Stream - AI-powered midnight rituals at 128 BPM",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "dj",
+    "ai-music",
+    "electronic-music",
+    "trap",
+    "edm",
+    "420",
+    "cyberpunk"
+  ],
+  "author": "DJ Smoke Stream",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sm0k367/dj-smoke-stream.git"
+  },
+  "homepage": "https://sm0k367.github.io/dj-smoke-stream/"
+}

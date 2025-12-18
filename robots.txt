@@ -1,0 +1,13 @@
+# DJ Smoke Stream - Robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://sm0k367.github.io/dj-smoke-stream/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin areas (if any in future)
+# Disallow: /admin/
